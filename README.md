@@ -1,6 +1,6 @@
 # Hello, I'm Almaz
 ## About me
-- :computer: I am Java backend Developer
+- :computer: I am Java backend developer
 - 🌱 I’m currently learning ElasticSearch
 - 📫 How to reach me: fpsuip@gmail.com or @AlmazSalyakhov or 917494200two
 <!--
